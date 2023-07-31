@@ -1,5 +1,8 @@
 _repo: The-illustrated-story-of-evolution_71039
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71039-h/images/cover.jpg
 creator:
   author:
     agent_name: Gauvin, Marshall J. (Marshall Jerome)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56052
     wikipedia: https://en.wikipedia.org/wiki/Marshall_Gauvin
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71039#The-illustrated-story-of-evolution
 gutenberg_issued: '2023-06-25'
 identifiers:
   gutenberg: '71039'
